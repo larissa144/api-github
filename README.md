@@ -1,7 +1,7 @@
 # api-github
 
 # Pré-requisitos para rodar o projeto:
-1 - versão 10.16.0 do Node.js
+- versão 10.16.0 do Node.js
 
 # Como rodar o projeto?
 
